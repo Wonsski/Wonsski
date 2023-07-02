@@ -3,7 +3,7 @@
 - 👀 I’m interested in opencv/mobile apps/robotics and other
 - 🔥 Ready for challenges
 - 💞️ I’m open for collaboration
-- 📫 Text me on discord Wonski#9433
+- 📫 Text me on discord: wonski
 
 <h3>My stuff</h3>
 <table>
