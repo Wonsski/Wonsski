@@ -8,6 +8,8 @@
 I work as a QA in R&D, where I develop autotests for software in the automation industry. Im enhancing our fork of Robot Framework, primarily creating tools for test data analysis.
 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/wonsski.png" alt="Tryhackme profile badge" />
+
 <h3>My stuff</h3>
 <table>
 <tr>
